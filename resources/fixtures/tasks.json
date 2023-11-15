@@ -1,0 +1,57 @@
+{
+  "create": {
+    "user": {
+      "name": "Cinthia Ferraz",
+      "email": "cinthia@hotmail.com",
+      "password": "teste10"
+    },
+    "task": {
+      "name": "Criar uma nova versão do Ipod",
+      "tags": ["ios", "music", "ipod"]
+    }
+  },
+  "duplicate": {
+    "user": {
+      "name": "Amanda Teste",
+      "email": "amanda@teste.com",
+      "password": "teste10"
+    },
+    "task": {
+      "name": "Recrutar novos meta humanos",
+      "tags": []
+    }
+  },
+  "tags_limit": {
+    "user": {
+      "name": "Cinthia Ferraz",
+      "email": "cinthia@hotmail.com",
+      "password": "teste10"
+    },
+    "task": {
+      "name": "Estudar Python",
+      "tags": ["QAx", "python", "programação", "pip"]
+    }
+  },
+  "done": {
+    "user": {
+      "name": "Cinthia Ferraz",
+      "email": "cinthia@hotmail.com",
+      "password": "teste10"
+    },
+    "task": {
+      "name": "Criar uma nova IA",
+      "tags": ["IA", "artificial", "inteligencia"]
+    }
+  },
+  "delete": {
+    "user": {
+      "name": "Cinthia Ferraz",
+      "email": "cinthia@hotmail.com",
+      "password": "teste10"
+    },
+    "task": {
+      "name": "Criar uma nova IA 2",
+      "tags": ["IA", "artificial", "inteligencia"]
+    }
+  }
+}
